@@ -7,7 +7,7 @@ from playsound import playsound
 
 
 root = Tk()
-root.geometry('500x300')
+root.geometry('500x500')
 root.resizable(0,0)
 root.config(bg = 'pink')
 root.title('RAJHON - TEXT_TO_SPEECH')
